@@ -1,0 +1,5 @@
+framework module MMDrawerController {
+    umbrella header "MMDrawerControllerUmbrella.h"
+    export *
+    module * { export * }
+}
