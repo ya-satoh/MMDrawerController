@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0E32BB121DDE7D2800D9DFE0"
-               BuildableName = "MMDrawerController-iOS.framework"
+               BuildableName = "MMDrawerController.framework"
                BlueprintName = "MMDrawerController-iOS"
                ReferencedContainer = "container:MMDrawerController.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0E32BB121DDE7D2800D9DFE0"
-            BuildableName = "MMDrawerController-iOS.framework"
+            BuildableName = "MMDrawerController.framework"
             BlueprintName = "MMDrawerController-iOS"
             ReferencedContainer = "container:MMDrawerController.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0E32BB121DDE7D2800D9DFE0"
-            BuildableName = "MMDrawerController-iOS.framework"
+            BuildableName = "MMDrawerController.framework"
             BlueprintName = "MMDrawerController-iOS"
             ReferencedContainer = "container:MMDrawerController.xcodeproj">
          </BuildableReference>

@@ -296,7 +296,7 @@
 				INFOPLIST_FILE = MMDrawerController/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "$(PROJECT_DIR)/MMDrawerController/module.modulemap";
+				MODULEMAP_FILE = "$(PROJECT_DIR)/MMDrawerController/MMDrawerController.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = me.matsuda.MMDrawerController;
 				PRODUCT_NAME = "$(PROJECT_NAME)";
 				SKIP_INSTALL = YES;
@@ -314,7 +314,7 @@
 				INFOPLIST_FILE = MMDrawerController/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "$(PROJECT_DIR)/MMDrawerController/module.modulemap";
+				MODULEMAP_FILE = "$(PROJECT_DIR)/MMDrawerController/MMDrawerController.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = me.matsuda.MMDrawerController;
 				PRODUCT_NAME = "$(PROJECT_NAME)";
 				SKIP_INSTALL = YES;
